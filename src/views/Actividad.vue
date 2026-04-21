@@ -69,7 +69,7 @@ export default {
             { id: 'a', texto: 'Comercialización.', esCorrecta: false },
             { id: 'b', texto: 'Publicidad.', esCorrecta: false },
             { id: 'c', texto: 'Pruebas.', esCorrecta: true },
-            { id: 'd', texto: 'Marketing.', esCorrecta: false },
+            { id: 'd', texto: '<em>marketing</em>.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
@@ -188,7 +188,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Las herramientas de hardware.',
+              texto: 'Las herramientas de <em>hardware</em>.',
               esCorrecta: false,
             },
             {
@@ -223,7 +223,7 @@ export default {
             {
               id: 'c',
               texto:
-                'Estrategias de marketing del producto dentro de una organización.',
+                'Estrategias de <em>marketing</em> del producto dentro de una organización.',
               esCorrecta: false,
             },
             { id: 'd', texto: 'Reglas de diseño gráfico.', esCorrecta: false },
@@ -420,12 +420,12 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Personas que diseñan el hardware.',
+              texto: 'Personas que diseñan el <em>hardware</em>.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Personas encargadas del marketing.',
+              texto: 'Personas encargadas del <em>marketing</em>.',
               esCorrecta: false,
             },
           ],
@@ -479,7 +479,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Realizar mantenimiento del hardware.',
+              texto: 'Realizar mantenimiento del <em>hardware</em>.',
               esCorrecta: false,
             },
             {
@@ -578,7 +578,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Mostrar el diseño del hardware.',
+              texto: 'Mostrar el diseño del <em>hardware</em>.',
               esCorrecta: false,
             },
           ],

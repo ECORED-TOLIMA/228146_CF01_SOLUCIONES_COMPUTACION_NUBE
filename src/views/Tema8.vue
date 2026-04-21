@@ -25,7 +25,7 @@
           img(src='@/assets/curso/tema8/img03.svg', alt='Imagen decorativa')
       .col.col-lg-10.col-12.order-lg-2.order-2
         .cajon.cajon.C05.px-4.py-3
-          p.mb-0(data-aos="fade-down") Desde los inicios de la ingeniería de <em>software</em>, diferentes métodos han sido utilizados para representar los requisitos de un sistema. En los primeros proyectos informáticos, la documentación se realizaba principalmente mediante descripciones textuales extensas. Con el paso del tiempo, surgieron enfoques más estructurados que incorporaron diagramas, modelos visuales y representaciones narrativas que facilitan la comprensión de las funcionalidades del sistema.
+          p.mb-0(data-aos="fade-down") Desde los inicios de la <b>ingeniería de <em>software</em></b>, diferentes métodos han sido utilizados para representar los requisitos de un sistema. En los primeros proyectos informáticos, la documentación se realizaba principalmente mediante descripciones textuales extensas. Con el paso del tiempo, surgieron enfoques más estructurados que incorporaron diagramas, modelos visuales y representaciones narrativas que facilitan la comprensión de las funcionalidades del sistema.
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
@@ -34,7 +34,7 @@
         p.mb-4(data-aos="fade-down") Durante la década de 1990, el uso de diagramas de modelado se consolidó con la aparición de metodologías orientadas a objetos y del Lenguaje Unificado de Modelado (UML), que permitió representar gráficamente las interacciones entre los usuarios y el sistema. Posteriormente, con la adopción de metodologías ágiles en el desarrollo de <em>software</em>, se popularizó el uso de historias de usuario como una forma sencilla y flexible de describir las necesidades del usuario final.
         .cajon.cajon.C02.color-secundario.px-4.py-3
           p.mb-0(data-aos="fade-down") En la actualidad, las organizaciones combinan diferentes herramientas de captura de requisitos para obtener una visión más completa del sistema que se desea construir. Algunas herramientas permiten representar las interacciones del sistema, otras describen las funcionalidades desde la perspectiva del usuario y otras ayudan a visualizar la experiencia del usuario a través de secuencias gráficas o narrativas.
-    p.mb-4(data-aos="fade-down") Entre las herramientas más utilizadas para la captura de requisitos se encuentran los diagramas de casos de uso, las historias de usuario y los <em>storyboard</em>, las cuales permiten representar la funcionalidad del sistema desde diferentes perspectivas y facilitan la comunicación entre los diferentes actores del proyecto.
+    p.mb-4(data-aos="fade-down") Entre las herramientas más utilizadas para la captura de requisitos se encuentran los <b>diagramas de casos de uso, las historias de usuario y los <em>storyboard</em></b>, las cuales permiten representar la funcionalidad del sistema desde diferentes perspectivas y facilitan la comunicación entre los diferentes actores del proyecto.
     p.mb-0(data-aos="fade-down") Estas herramientas se analizan en los siguientes apartados, donde se describe su propósito, características y la forma en que contribuyen a la documentación y comprensión de los requisitos del sistema.
     separador
     #t_8_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -135,9 +135,9 @@
       h4 Ejemplo de diagrama de casos de uso
       p.mb-4(data-aos="fade-down") En un sistema de comercio electrónico pueden identificarse diferentes actores y funcionalidades.
       .row.justify-content-center.mb-4
-        .col.col-lg-4.col-12
+        .col.col-lg-4.col-12.mb-lg-0.mb-3
           .tarjeta.tarjeta--blanca.px-4.py-2.mb-2.h-100
-            P.mb-0 <b>Actor</b>: cliente.
+            P.mb-0 <b>Actor</b>: administrador.
             p.text-bold.mb-0 Casos de uso:
             ul.lista-ul.mb-0
               li.mb-0
@@ -158,7 +158,7 @@
               li.mb-0
                 i.lista-ul__vineta
                 p.mb-0 Consultar historial de pedidos.
-        .col.col-lg-4.col-12
+        .col.col-lg-4.col-12.mb-lg-0.mb-3
           .tarjeta.tarjeta--blanca.px-4.py-2.mb-2.h-100
             P.mb-0 <b>Actor</b>: cliente.
             p.text-bold.mb-0 Casos de uso:
@@ -333,7 +333,7 @@
         .cajon.cajon.C04.px-4.py-2
           .row.justify-content-center.align-items-center
             p.mb-0(data-aos="fade-down") En ingeniería de requisitos, el <em>storyboard</em> permite presentar cómo se desarrolla una situación de uso del sistema paso a paso. Cada escena representa una acción o momento específico dentro del proceso, lo que facilita la identificación de funcionalidades necesarias, posibles errores o mejoras en la experiencia del usuario.
-      .col.col-lg-auto.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+      .col.col-lg-auto.col-8.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/tema8/img25.svg', alt='Imagen decorativa')
     p.mb-4(data-aos="fade-down") Para elaborar un <em>storyboard</em> en el contexto del desarrollo de <em>software</em>, se pueden seguir los siguientes pasos:

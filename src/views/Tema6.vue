@@ -34,10 +34,10 @@
         figure
           img(src='@/assets/curso/tema6/img04.jpg', alt='Imagen decorativa')
       .col.col-lg-6.col-12.order-lg-2.order-2
-        p.mb-2(data-aos="fade-down") Los usuarios son las personas que utilizan el sistema de manera directa para realizar tareas específicas dentro de su entorno laboral o personal. Ellos interactúan con la interfaz del sistema, introducen información, consultan datos y ejecutan diferentes funciones que permiten cumplir los procesos definidos por la organización. Debido a su experiencia práctica en el uso del sistema, los usuarios constituyen una fuente primaria de información durante la recopilación de requisitos.
+        p.mb-2(data-aos="fade-down") Los <b>usuarios</b> son las personas que utilizan el sistema de manera directa para realizar tareas específicas dentro de su entorno laboral o personal. Ellos interactúan con la interfaz del sistema, introducen información, consultan datos y ejecutan diferentes funciones que permiten cumplir los procesos definidos por la organización. Debido a su experiencia práctica en el uso del sistema, los usuarios constituyen una fuente primaria de información durante la recopilación de requisitos.
         .cajon.cajon.C01.color-primario.px-4.py-2
           p.mb-0(data-aos="fade-down") Por ejemplo, en un sistema de gestión académica, los usuarios pueden ser los aprendices que consultan sus calificaciones, los instructores que registran notas o el personal administrativo que gestiona los registros académicos.
-    p(data-aos="fade-down") Por su parte, los actores representan cualquier entidad que interactúa con el sistema para lograr un objetivo determinado. Un actor no necesariamente es una persona; también puede ser otro sistema informático, un dispositivo tecnológico o un servicio externo que intercambia información con el sistema en desarrollo.
+    p(data-aos="fade-down") Por su parte, los <b>actores</b> representan cualquier entidad que interactúa con el sistema para lograr un objetivo determinado. Un actor no necesariamente es una persona; también puede ser otro sistema informático, un dispositivo tecnológico o un servicio externo que intercambia información con el sistema en desarrollo.
     p.mb-4(data-aos="fade-down") Entre los tipos de actores que pueden identificarse en un proyecto de <em>software</em> se encuentran:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-lg-9.position-relative
@@ -187,7 +187,7 @@
       .col.col-lg-7.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") Dentro de la ingeniería de requisitos, el cliente líder y el dueño del producto cumplen un papel fundamental en la definición de las necesidades del sistema y en la toma de decisiones relacionadas con el desarrollo del <em>software</em>. Estas figuras representan los intereses del negocio y aseguran que el sistema que se construye responda a los objetivos organizacionales y a las necesidades reales de los usuarios.
         .cajon.cajon.C01.color-primario.px-4.py-2
-          p.mb-2(data-aos="fade-down") El cliente líder corresponde a la persona o representante de la organización que solicita el desarrollo del sistema y actúa como principal punto de contacto entre el equipo de desarrollo y la entidad que requiere la solución tecnológica. Su función consiste en proporcionar información sobre el contexto del negocio, definir prioridades, validar los requisitos identificados y aprobar los entregables generados durante el proyecto.
+          p.mb-2(data-aos="fade-down") El <b>cliente líder</b> corresponde a la persona o representante de la organización que solicita el desarrollo del sistema y actúa como principal punto de contacto entre el equipo de desarrollo y la entidad que requiere la solución tecnológica. Su función consiste en proporcionar información sobre el contexto del negocio, definir prioridades, validar los requisitos identificados y aprobar los entregables generados durante el proyecto.
     p.mb-4(data-aos="fade-down") Entre las principales responsabilidades del cliente líder se encuentran:
     .row.mb-5(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4
@@ -269,7 +269,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         .cajon.cajon.C01.color-primario.px-4.py-3
-          p.mb-0(data-aos="fade-down") El equipo de desarrollo está conformado por los profesionales encargados de diseñar, construir, probar e implementar el sistema. Este equipo puede incluir desarrolladores de <em>software</em>, arquitectos de sistemas, diseñadores de interfaces, especialistas en bases de datos y profesionales de pruebas o calidad. Cada uno de estos roles contribuye desde su especialidad al desarrollo del producto tecnológico.
+          p.mb-0(data-aos="fade-down") El <b>equipo de desarrollo</b> está conformado por los profesionales encargados de diseñar, construir, probar e implementar el sistema. Este equipo puede incluir desarrolladores de <em>software</em>, arquitectos de sistemas, diseñadores de interfaces, especialistas en bases de datos y profesionales de pruebas o calidad. Cada uno de estos roles contribuye desde su especialidad al desarrollo del producto tecnológico.
     p.text-center(data-aos="fade-down") Entre las principales responsabilidades del equipo de desarrollo se encuentran:
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-7.col-12.order-lg-1.order-2
@@ -303,7 +303,7 @@
         figure
           img(src='@/assets/curso/tema6/img34.jpg', alt='Imagen decorativa')
       .col.col-lg-7.col-12.order-lg-2.order-2
-        p.mb-3(data-aos="fade-down") Por su parte, el analista de requisitos cumple una función de enlace entre el negocio y el equipo técnico. Este profesional se encarga de comprender las necesidades de los usuarios, documentarlas de manera estructurada y asegurar que dichas necesidades sean interpretadas correctamente por el equipo de desarrollo.
+        p.mb-3(data-aos="fade-down") Por su parte, el <b>analista de requisitos</b> cumple una función de enlace entre el negocio y el equipo técnico. Este profesional se encarga de comprender las necesidades de los usuarios, documentarlas de manera estructurada y asegurar que dichas necesidades sean interpretadas correctamente por el equipo de desarrollo.
         .cajon.cajon.C01.color-primario.p-4
           p.mb-0(data-aos="fade-down") El analista también facilita la comunicación entre las diferentes partes interesadas, organiza la información obtenida durante la elicitación de requisitos y valida que los requisitos definidos sean completos, claros y consistentes.
     .row.BG03.justify-content-center.align-items-center.px-3.py-5.mb-0

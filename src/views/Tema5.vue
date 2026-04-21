@@ -20,9 +20,9 @@
       .col.col-lg-10.col-12
         .cajon.cajon.C02.color-secundario.p-3
           .row.justify-content-center.align-items-center
-            .col.col-lg-9.order-lg-1.order-2
+            .col.col-lg-9.col-12.order-lg-1.order-2
               p.mb-0(data-aos="fade-down") La elicitación no consiste únicamente en preguntar qué necesita el cliente, sino también en analizar el contexto organizacional, identificar requisitos implícitos, resolver ambigüedades y descubrir necesidades que los propios usuarios pueden no haber expresado de forma explícita. Para lograrlo, se utilizan diversas técnicas de investigación, comunicación y análisis que facilitan la comprensión integral del problema.
-            .col.col-lg-auto.col-8.order-lg-2.order-1.mb-lg-0.mb-3
+            .col.col-lg-auto.col-8.col-md-5.order-lg-2.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/tema5/img02.svg', alt='Imagen decorativa')
     p.mb-0(data-aos="fade-down") Además, este proceso suele ser iterativo, lo que significa que la información recopilada se revisa, valida y complementa continuamente a medida que se obtiene una mejor comprensión del sistema y de su entorno. De esta manera, la elicitación contribuye a reducir errores tempranos, mejorar la calidad de los requisitos y aumentar la probabilidad de éxito del proyecto de <em>software</em>.
@@ -267,7 +267,7 @@
       .col-lg-5.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema5/img14.svg', alt='Imagen decorativa')
-    p.mb-0(data-aos="fade-down") Un aspecto relevante que suele mencionarse en la ingeniería de <em>software</em> es que corregir un error en los requisitos puede ser hasta cien veces más costoso cuando el sistema ya está en producción. Por esta razón, dedicar tiempo y esfuerzo a una adecuada elicitación y validación de requisitos resulta fundamental para el éxito de cualquier proyecto de <em>software</em>.
+    p.mb-0(data-aos="fade-down") Un aspecto relevante que suele mencionarse en la ingeniería de <em>software</em> es que <b>corregir un error en los requisitos puede ser hasta cien veces más costoso cuando el sistema ya está en producción</b>. Por esta razón, dedicar tiempo y esfuerzo a una adecuada elicitación y validación de requisitos resulta fundamental para el éxito de cualquier proyecto de <em>software</em>.
 
 </template>
 

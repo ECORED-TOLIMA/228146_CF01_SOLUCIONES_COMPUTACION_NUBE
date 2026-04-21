@@ -17,9 +17,9 @@
       .col.col-lg-10.col-12
         .cajon.cajon.C02.color-secundario.p-3
           .row.justify-content-center.align-items-center
-            .col.col-lg-9.order-lg-1.order-2
+            .col.col-lg-9.col-12.order-lg-1.order-2
               p.mb-0(data-aos="fade-down") A través del ciclo de vida del <em>software</em> se busca reducir riesgos, mejorar la gestión del proyecto y garantizar que los requerimientos del sistema se comprendan y se implementen correctamente. Además, facilita la comunicación entre los diferentes actores involucrados, como analistas, desarrolladores, usuarios y demás partes interesadas.
-            .col.col-lg-2.col-8.order-lg-2.order-1.mb-lg-0.mb-3
+            .col.col-lg-2.col-8.col-md-5.order-lg-2.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/tema1/img02.svg', alt='Imagen decorativa')
     p.mb-0(data-aos="fade-down") Comprender los fundamentos del ciclo de vida del <em>software</em> resulta esencial para cualquier proceso de desarrollo, ya que proporciona una visión integral del proyecto y permite aplicar metodologías y modelos que orientan la creación de soluciones tecnológicas eficientes, sostenibles y alineadas con las necesidades del entorno.
@@ -155,7 +155,7 @@
         .cajon.cajon.C03.p-3
           .row.justify-content-center.align-items-center
             p.mb-0(data-aos="fade-down") En la actualidad, muchos proyectos de <em>software</em> combinan diferentes enfoques o adoptan metodologías ágiles que permiten responder con mayor rapidez a los cambios en los requisitos y a las necesidades del usuario.
-      .col.col-lg-1.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+      .col.col-lg-1.col-8.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/tema1/img12.svg', alt='Imagen decorativa')
     separador

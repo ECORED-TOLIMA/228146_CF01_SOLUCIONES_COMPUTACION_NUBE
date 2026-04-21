@@ -105,9 +105,9 @@
       .col.col-lg-10.col-12
         .cajon.cajon.C02.color-secundario.p-3
           .row.justify-content-center.align-items-center
-            .col.col-lg-9.order-lg-1.order-2
+            .col.col-lg-9.col-12.order-lg-1.order-2
               p.mb-0(data-aos="fade-down") Asimismo, los requisitos bien definidos sirven como referencia para las fases de diseño, desarrollo y pruebas, ya que establecen los criterios que permitirán verificar si el <em>software</em> cumple con las funcionalidades y características esperadas. De esta manera, la definición de requisitos se convierte en un elemento clave para garantizar la calidad del producto final.
-            .col.col-lg-auto.col-8.order-lg-2.order-1.mb-lg-0.mb-3
+            .col.col-lg-auto.col-8.col-md-5.order-lg-2.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/tema2/img11.svg', alt='Imagen decorativa')
     p.mb-4(data-aos="fade-down") Entre los principales aspectos que evidencian la importancia de la definición de requisitos se encuentran los siguientes:

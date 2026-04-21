@@ -135,23 +135,23 @@
         figure
           img(src='@/assets/curso/tema7/img09.jpg', alt='Imagen decorativa')
       .col.col-lg-8.col-12.order-lg-2.order-2
-        p.mb-3(data-aos="fade-down") Una de sus principales características es la representación gráfica, ya que permiten expresar ideas, procesos y estructuras del sistema mediante diagramas y esquemas visuales. Este tipo de representación facilita la comprensión del sistema tanto para el equipo técnico como para los usuarios o partes interesadas que participan en el proyecto.
+        p.mb-3(data-aos="fade-down") Una de sus principales características es la <b>representación gráfica</b>, ya que permiten expresar ideas, procesos y estructuras del sistema mediante diagramas y esquemas visuales. Este tipo de representación facilita la comprensión del sistema tanto para el equipo técnico como para los usuarios o partes interesadas que participan en el proyecto.
         .row.mb-3
           .col-lg-1.d-none.d-lg-block
             figure
               img(src='@/assets/curso/tema7/img10.svg', alt='Imagen decorativa')
           .col-lg-11.col-12
             .cajon.cajon.C01.p-4.py-2.mb-0
-              p.mb-0 Otra característica importante es la estandarización de modelos, lo que significa que muchas herramientas utilizan notaciones reconocidas internacionalmente, como el Lenguaje Unificado de Modelado (UML) o modelos de procesos. Esto permite que los diagramas elaborados puedan ser comprendidos por diferentes profesionales del área de desarrollo de <em>software</em>.
-        p.mb-0(data-aos="fade-down") Las herramientas de modelado también ofrecen facilidades de documentación, ya que permiten almacenar información relacionada con los elementos del sistema, como descripciones de requisitos, relaciones entre componentes, reglas de negocio y especificaciones técnicas. De esta manera, se genera una base de conocimiento que puede ser utilizada durante todo el ciclo de vida del <em>software</em>.
-    p.mb-4(data-aos="fade-down") Asimismo, muchas herramientas cuentan con funcionalidades de trabajo colaborativo, lo que permite que varios miembros del equipo participen en la construcción y revisión de los modelos del sistema. Esta característica favorece la comunicación entre analistas, desarrolladores, diseñadores y otros actores involucrados en el proyecto.
+              p.mb-0 Otra característica importante es la <b>estandarización de modelos</b>, lo que significa que muchas herramientas utilizan notaciones reconocidas internacionalmente, como el Lenguaje Unificado de Modelado (UML) o modelos de procesos. Esto permite que los diagramas elaborados puedan ser comprendidos por diferentes profesionales del área de desarrollo de <em>software</em>.
+        p.mb-0(data-aos="fade-down") Las herramientas de modelado también ofrecen <b>facilidades de documentación</b>, ya que permiten almacenar información relacionada con los elementos del sistema, como descripciones de requisitos, relaciones entre componentes, reglas de negocio y especificaciones técnicas. De esta manera, se genera una base de conocimiento que puede ser utilizada durante todo el ciclo de vida del <em>software</em>.
+    p.mb-4(data-aos="fade-down") Asimismo, muchas herramientas cuentan con <b>funcionalidades de trabajo colaborativo</b>, lo que permite que varios miembros del equipo participen en la construcción y revisión de los modelos del sistema. Esta característica favorece la comunicación entre analistas, desarrolladores, diseñadores y otros actores involucrados en el proyecto.
     .row.justify-content-center.mb-4
       .col.col-lg-auto.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/tema7/img11.svg', alt='Imagen decorativa')
       .col.col-lg-8.col-12.order-lg-2.order-2
         .cajon.cajon.C05.px-4.py-3
-          p.mb-0(data-aos="fade-down") Otra característica relevante es la capacidad de actualización y trazabilidad, ya que las herramientas permiten modificar los modelos cuando cambian los requisitos del sistema y mantener un registro de las versiones o cambios realizados. Esto facilita el control del proyecto y la gestión de los requisitos a lo largo del desarrollo.
+          p.mb-0(data-aos="fade-down") Otra característica relevante es la <b>capacidad de actualización y trazabilidad</b>, ya que las herramientas permiten modificar los modelos cuando cambian los requisitos del sistema y mantener un registro de las versiones o cambios realizados. Esto facilita el control del proyecto y la gestión de los requisitos a lo largo del desarrollo.
     p.mb-4(data-aos="fade-down") A continuación, se presentan algunas características comunes de las herramientas de modelado utilizadas en proyectos de <em>software</em>.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
