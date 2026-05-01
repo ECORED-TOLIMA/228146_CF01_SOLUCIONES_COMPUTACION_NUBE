@@ -94,23 +94,23 @@
                 th(data-aos="fade-down")(style= "width: 35%") Características principales
             tbody
               tr
-                td(data-aos="fade-down")(style="background-color: #F0F8FF") Modelo en cascada
+                td(data-aos="fade-down")(style="background-color: #F0F8FF") Modelo en cascada.
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Es uno de los modelos más tradicionales del desarrollo de <em>software</em>. Las fases del proyecto se ejecutan de manera secuencial, es decir, cada etapa comienza cuando la anterior ha finalizado.
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Proceso lineal, documentación detallada, adecuado cuando los requisitos están claramente definidos desde el inicio.
               tr
-                td(data-aos="fade-down") Modelo incremental
+                td(data-aos="fade-down") Modelo incremental.
                 td(data-aos="fade-down") El sistema se desarrolla mediante incrementos o versiones parciales que se van integrando progresivamente hasta completar el producto final.
                 td(data-aos="fade-down") Permite entregar funcionalidades de manera gradual, facilita la retroalimentación del usuario y reduce riesgos.
               tr
-                td(data-aos="fade-down")(style="background-color: #F0F8FF") Modelo en espiral
+                td(data-aos="fade-down")(style="background-color: #F0F8FF") Modelo en espiral.
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Combina el desarrollo iterativo con el análisis continuo de riesgos. Cada ciclo del proyecto incluye planificación, análisis, desarrollo y evaluación.
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Enfoque orientado a la gestión de riesgos, adecuado para proyectos grandes y complejos.
               tr
-                td(data-aos="fade-down") Modelo en V
+                td(data-aos="fade-down") Modelo en V.
                 td(data-aos="fade-down") Es una extensión del modelo en cascada que relaciona cada fase del desarrollo con una fase correspondiente de pruebas y validación.
                 td(data-aos="fade-down") Alta trazabilidad entre desarrollo y pruebas, adecuado para proyectos que requieren alta calidad y control.
               tr
-                td(data-aos="fade-down")(style="background-color: #F0F8FF") Modelo ágil
+                td(data-aos="fade-down")(style="background-color: #F0F8FF") Modelo ágil.
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Se basa en ciclos cortos de desarrollo llamados iteraciones o <em>sprints</em>, donde se entregan pequeñas funcionalidades del sistema de forma continua.
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Flexibilidad, adaptación al cambio, trabajo colaborativo y retroalimentación constante del cliente.
     p(data-aos="fade-down") Cada uno de estos modelos propone una forma particular de organizar las actividades del desarrollo de <em>software</em>. Aunque comparten etapas similares, difieren en la manera en que se estructuran las fases, la interacción con los usuarios y la forma en que se gestionan los cambios durante el proyecto.

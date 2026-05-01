@@ -589,9 +589,9 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        'Mensaje cuando supera el 70 % de respuestas correctas	Ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
+        'Ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_final_reprobado:
-        'Mensaje cuando el porcentaje de respuestas correctas es inferior al 70 %	No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
 }

@@ -224,7 +224,7 @@
         br
         br
         p El dueño del producto gestiona y prioriza las funcionalidades que debe tener el sistema, organiza los requisitos en un listado estructurado de trabajo y toma decisiones sobre qué características se desarrollarán primero. De esta manera, orienta el trabajo del equipo hacia la generación de valor para el usuario y para la organización.
-    p.text-center(data-aos="fade-down") Entre las funciones principales del dueño del producto se destacan:
+    p(data-aos="fade-down") Entre las funciones principales del dueño del producto se destacan:
     .row.mb-4
       .col-12
         .px-5.py-0
@@ -270,7 +270,7 @@
       .col.col-lg-10.col-12
         .cajon.cajon.C01.color-primario.px-4.py-3
           p.mb-0(data-aos="fade-down") El <b>equipo de desarrollo</b> está conformado por los profesionales encargados de diseñar, construir, probar e implementar el sistema. Este equipo puede incluir desarrolladores de <em>software</em>, arquitectos de sistemas, diseñadores de interfaces, especialistas en bases de datos y profesionales de pruebas o calidad. Cada uno de estos roles contribuye desde su especialidad al desarrollo del producto tecnológico.
-    p.text-center(data-aos="fade-down") Entre las principales responsabilidades del equipo de desarrollo se encuentran:
+    p(data-aos="fade-down") Entre las principales responsabilidades del equipo de desarrollo se encuentran:
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-7.col-12.order-lg-1.order-2
         .cajon.C02.p-4.h-100.w-100

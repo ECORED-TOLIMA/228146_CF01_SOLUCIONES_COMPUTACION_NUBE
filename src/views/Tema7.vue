@@ -63,28 +63,28 @@
           .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema7/img04.jpg', alt='Imagen decorativa')
-        .row.py-5.px-4(titulo="a.")
+        .row.py-5.px-4(titulo="b.")
           .col-lg-5.mb-4.mb-md-0.order-lg-2.order-2
             h4 Herramientas de modelado de procesos
             p.mb-0 Se utilizan para representar el flujo de actividades dentro de un sistema o proceso de negocio. Estas herramientas permiten visualizar cómo se desarrollan las tareas, qué actores participan y cómo se relacionan las diferentes actividades del proceso.
           .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema7/img05.jpg', alt='Imagen decorativa')
-        .row.py-5.px-4(titulo="b.")
+        .row.py-5.px-4(titulo="c.")
           .col-lg-5.mb-4.mb-md-0.order-lg-2.order-2
             h4 Herramientas de modelado de datos
             p.mb-0 Permiten representar la estructura de los datos que utilizará el sistema. Mediante estas herramientas se elaboran diagramas entidad–relación, modelos de bases de datos y estructuras de almacenamiento de información.
           .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema7/img06.jpg', alt='Imagen decorativa')
-        .row.py-5.px-4(titulo="c.")
+        .row.py-5.px-4(titulo="d.")
           .col-lg-5.mb-4.mb-md-0.order-lg-2.order-2
             h4 Herramientas de prototipado
             p.mb-0 Facilitan la creación de representaciones visuales de las interfaces del sistema antes de su desarrollo definitivo. A través de prototipos se pueden evaluar aspectos de usabilidad, navegación y diseño de la interfaz.
           .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema7/img07.jpg', alt='Imagen decorativa')
-        .row.py-5.px-4(titulo="d.")
+        .row.py-5.px-4(titulo="e.")
           .col-lg-5.mb-4.mb-md-0.order-lg-2.order-2
             h4 Herramientas de modelado colaborativo
             p.mb-0 Permiten que varios miembros del equipo trabajen simultáneamente en la construcción de modelos del sistema. Estas herramientas facilitan la comunicación entre los participantes del proyecto y el seguimiento de cambios realizados en los modelos.
