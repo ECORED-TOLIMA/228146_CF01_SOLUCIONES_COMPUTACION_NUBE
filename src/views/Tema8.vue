@@ -200,7 +200,7 @@
                 td(data-aos="fade-down") Herramienta gratuita para crear diagramas técnicos y modelos UML.
               tr
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") StarUML
-                td(data-aos="fade-down")(style="background-color: #F0F8FF") <em>software</em> especializado en modelado UML utilizado en proyectos de desarrollo de <em>software</em>.
+                td(data-aos="fade-down")(style="background-color: #F0F8FF") <em>Software</em> especializado en modelado UML utilizado en proyectos de desarrollo de <em>software</em>.
               tr
                 td(data-aos="fade-down") Visual Paradigm
                 td(data-aos="fade-down") Plataforma profesional para modelado de sistemas y gestión de proyectos de <em>software</em>.
