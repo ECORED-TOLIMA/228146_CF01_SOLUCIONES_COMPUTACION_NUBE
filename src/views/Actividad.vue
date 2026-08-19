@@ -55,7 +55,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -72,7 +72,7 @@ export default {
             { id: 'd', texto: '<em>marketing</em>.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -107,7 +107,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -132,7 +132,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -165,7 +165,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -199,7 +199,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -229,7 +229,7 @@ export default {
             { id: 'd', texto: 'Reglas de diseño gráfico.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -258,7 +258,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -274,7 +274,7 @@ export default {
             { id: 'd', texto: 'Ventas.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -307,7 +307,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -340,7 +340,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -357,7 +357,7 @@ export default {
             { id: 'd', texto: 'Documentos archivados.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -378,7 +378,7 @@ export default {
             { id: 'd', texto: 'Entrevista.', esCorrecta: true },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -398,7 +398,7 @@ export default {
             { id: 'd', texto: 'Modelos de negocio.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -430,7 +430,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -459,7 +459,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -489,7 +489,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -522,7 +522,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -550,7 +550,7 @@ export default {
             { id: 'd', texto: 'Crear código fuente.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -583,7 +583,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del <em>software</em> y la ingeniería de requisitos.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos clave sobre el ciclo de vida del software y la ingeniería de requisitos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
